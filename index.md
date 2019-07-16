@@ -1,6 +1,6 @@
 # CUGEO 2019
 
-Cornell Geospatial Forum
+Cornell Geospatial Forum  
 Thursday, February 14, 2019  
 3:00pm to 5:00pm  
 Mann Library 102
