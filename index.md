@@ -1,10 +1,9 @@
-# CUGEO 2019
+# Cornell Geospatial Forum
 
 <div style="text-align:center; font-size:200%">
-Cornell Geospatial Forum  
-Thursday, February 14, 2019  
-3:00pm to 5:00pm  
-Mann Library 102  
+Thursday, February 14, 2019<br> 
+3:00pm to 5:00pm<br>
+Mann Library 102
 </div>
 
 Please join us for CUGEO, the third nearly-annual Cornell Geospatial Forum, a gathering of faculty, staff, students, and community members to discuss geospatial science and technology research, teaching, and extension at Cornell.
